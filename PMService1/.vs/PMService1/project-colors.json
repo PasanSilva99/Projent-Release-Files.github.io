@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a82d0be-b20d-4a78-930d-08d6bec7091e": {
+      "ProjectGuid": "3a82d0be-b20d-4a78-930d-08d6bec7091e",
+      "DisplayName": "PMService1",
+      "ColorIndex": 0
+    },
+    "1463e1a4-7506-4729-b1c9-93aea910020d": {
+      "ProjectGuid": "1463e1a4-7506-4729-b1c9-93aea910020d",
+      "DisplayName": "PMServer1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

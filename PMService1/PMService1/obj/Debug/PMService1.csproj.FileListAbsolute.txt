@@ -1,0 +1,15 @@
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\obj\Debug\PMService1.csproj.AssemblyReference.cache
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\obj\Debug\PMService1.csproj.CoreCompileInputs.cache
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\PMService1.dll.config
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\PMService1.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\PMService1.pdb
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\obj\Debug\PMService1.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\obj\Debug\PMService1.pdb
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\EntityFramework.SqlServer.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\EntityFramework.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\System.Data.SQLite.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\System.Data.SQLite.EF6.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\System.Data.SQLite.Linq.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\x64\SQLite.Interop.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\x86\SQLite.Interop.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMService1\bin\Images\user.png
