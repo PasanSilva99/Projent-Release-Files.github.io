@@ -1,0 +1,15 @@
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\PMServer1.exe.config
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\PMServer1.exe
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\PMServer1.pdb
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\PMService1.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\PMService1.pdb
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\PMService1.dll.config
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\obj\Debug\PMServer1.csproj.AssemblyReference.cache
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\obj\Debug\PMServer1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\obj\Debug\PMServer1.csproj.CoreCompileInputs.cache
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\obj\Debug\PMServer1.exe
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\obj\Debug\PMServer1.pdb
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Pasan\Documents\GitHub\Project-Management-App\PMService1\PMServer1\bin\Debug\Images\user.png

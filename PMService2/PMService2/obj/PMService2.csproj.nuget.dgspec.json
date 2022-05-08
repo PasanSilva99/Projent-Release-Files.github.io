@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pasan\\Documents\\GitHub\\Project-Management-App\\PMService2\\PMService2\\PMService2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pasan\\Documents\\GitHub\\Project-Management-App\\PMService2\\PMService2\\PMService2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pasan\\Documents\\GitHub\\Project-Management-App\\PMService2\\PMService2\\PMService2.csproj",
+        "projectName": "PMService2",
+        "projectPath": "C:\\Users\\Pasan\\Documents\\GitHub\\Project-Management-App\\PMService2\\PMService2\\PMService2.csproj",
+        "packagesPath": "C:\\Users\\Pasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pasan\\Documents\\GitHub\\Project-Management-App\\PMService2\\PMService2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Dev\\LocalNugetCache": {},
+          "I:\\OfflineNugetCache": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

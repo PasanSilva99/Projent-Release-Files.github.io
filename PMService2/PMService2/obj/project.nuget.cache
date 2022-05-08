@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pOPCwGyNnxmkbePgf6kiIUJIM1Bhtrs+7N3bth5b1uSBbzmNEUQ6KsGvwej6fvkIjnMWaCNalnMiJbd+h2srg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pasan\\Documents\\GitHub\\Project-Management-App\\PMService2\\PMService2\\PMService2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pasan\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Pasan\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.115.5\\stub.system.data.sqlite.core.netframework.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Pasan\\.nuget\\packages\\system.data.sqlite\\1.0.115.5\\system.data.sqlite.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Pasan\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Pasan\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.115.5\\system.data.sqlite.ef6.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Pasan\\.nuget\\packages\\system.data.sqlite.linq\\1.0.115.5\\system.data.sqlite.linq.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
